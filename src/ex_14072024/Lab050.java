@@ -2,7 +2,7 @@ package ex_14072024;
 
 public class Lab050 {
     public static void main(String[] args) {
-        // ✅ Operators
+        // Operators
         int age = 65;
         int lambo = -1;
         // data_type variable_name(identifier) = variable _value(literals)
